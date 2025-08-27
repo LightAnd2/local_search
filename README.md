@@ -45,13 +45,6 @@ python local_search.py index C:\Users\Andrew\Documents
 python local_search.py search "machine learning"
 ```
 
----
-
-## 📸 Screenshots
-*(Add your own screenshots here of indexing and searching results in the terminal)*  
-
----
-
 ## 🎯 Why This Project?
 - Demonstrates **systems design**: indexing + searching logic  
 - Practical and **portfolio-ready** — everyone needs to search files  
